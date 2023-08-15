@@ -7,7 +7,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class Drop extends Game {
     public SpriteBatch batch;
     public BitmapFont font;
-    public GameScreen gameScreen;
+    public GameScreen gameScreen ;
 
     public void create() {
         batch = new SpriteBatch();
